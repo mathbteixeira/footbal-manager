@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Arsenal",
+    "balance": 100000000,
+    "squad": [
+      {"name": "Saka", "overall": 88, "price": 85000000},
+      {"name": "Gyokeres", "overall": 87, "price": 75000000},
+      {"name": "Odegaard", "overall": 87, "price": 80000000},
+      {"name": "Rice", "overall": 87, "price": 85000000},
+      {"name": "Saliba", "overall": 86, "price": 70000000},
+      {"name": "Gabriel", "overall": 85, "price": 60000000},
+      {"name": "Raya", "overall": 85, "price": 45000000},
+      {"name": "White", "overall": 84, "price": 55000000},
+      {"name": "Martinelli", "overall": 84, "price": 65000000},
+      {"name": "Havertz", "overall": 84, "price": 60000000},
+      {"name": "Trossard", "overall": 83, "price": 40000000},
+      {"name": "Timber", "overall": 83, "price": 50000000},
+      {"name": "Merino", "overall": 83, "price": 45000000},
+      {"name": "Calafiori", "overall": 82, "price": 50000000},
+      {"name": "Jorginho", "overall": 82, "price": 15000000}
+    ]
+  },
+  {
+    "name": "Man City",
+    "balance": 200000000,
+    "squad": [
+      {"name": "Haaland", "overall": 91, "price": 150000000},
+      {"name": "De Bruyne", "overall": 90, "price": 100000000},
+      {"name": "Bernardo Silva", "overall": 90, "price": 100000000},
+      {"name": "Rodri", "overall": 89, "price": 90000000},
+      {"name": "Foden", "overall": 89, "price": 110000000},
+      {"name": "Dias", "overall": 88, "price": 80000000},
+      {"name": "Ederson", "overall": 88, "price": 65000000},
+      {"name": "Gvardiol", "overall": 86, "price": 75000000},
+      {"name": "Stones", "overall": 85, "price": 60000000},
+      {"name": "Akanji", "overall": 85, "price": 55000000},
+      {"name": "Walker", "overall": 84, "price": 25000000},
+      {"name": "Ake", "overall": 84, "price": 50000000},
+      {"name": "Kovacic", "overall": 84, "price": 35000000},
+      {"name": "Doku", "overall": 83, "price": 65000000},
+      {"name": "Savinho", "overall": 82, "price": 50000000}
+    ]
+  },
+  {
+    "name": "Man United",
+    "balance": 150000000,
+    "squad": [
+      {"name": "Bruno Fernandes", "overall": 91, "price": 130000000},
+      {"name": "Casemiro", "overall": 89, "price": 90000000},
+      {"name": "Rashford", "overall": 85, "price": 75000000},
+      {"name": "Matheus Cunha", "overall": 85, "price": 80000000},
+      {"name": "Martinez", "overall": 84, "price": 60000000},
+      {"name": "Onana", "overall": 84, "price": 55000000},
+      {"name": "De Ligt", "overall": 84, "price": 65000000},
+      {"name": "Mainoo", "overall": 83, "price": 70000000},
+      {"name": "Garnacho", "overall": 83, "price": 75000000},
+      {"name": "Dalot", "overall": 83, "price": 50000000},
+      {"name": "Mazraoui", "overall": 82, "price": 40000000},
+      {"name": "Hojlund", "overall": 82, "price": 65000000},
+      {"name": "Zirkzee", "overall": 81, "price": 55000000},
+      {"name": "Yoro", "overall": 80, "price": 60000000},
+      {"name": "Amad", "overall": 79, "price": 45000000}
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "balance": 100000000,
+    "squad": [
+      {"name": "Salah", "overall": 89, "price": 90000000},
+      {"name": "Alisson", "overall": 88, "price": 60000000},
+      {"name": "Van Dijk", "overall": 88, "price": 65000000},
+      {"name": "Alexander-Arnold", "overall": 87, "price": 85000000},
+      {"name": "Mac Allister", "overall": 86, "price": 70000000},
+      {"name": "Diaz", "overall": 85, "price": 75000000},
+      {"name": "Szoboszlai", "overall": 85, "price": 70000000},
+      {"name": "Jota", "overall": 85, "price": 65000000},
+      {"name": "Robertson", "overall": 84, "price": 45000000},
+      {"name": "Nunez", "overall": 84, "price": 70000000},
+      {"name": "Gakpo", "overall": 84, "price": 60000000},
+      {"name": "Konate", "overall": 84, "price": 65000000},
+      {"name": "Gravenberch", "overall": 83, "price": 55000000},
+      {"name": "Elliott", "overall": 81, "price": 45000000},
+      {"name": "Bradley", "overall": 80, "price": 35000000}
+    ]
+  },
+  {
+    "name": "Chelsea",
+    "balance": 150000000,
+    "squad": [
+      {"name": "Palmer", "overall": 86, "price": 90000000},
+      {"name": "Enzo", "overall": 83, "price": 50000000},
+      {"name": "Caicedo", "overall": 84, "price": 70000000},
+      {"name": "James", "overall": 84, "price": 55000000},
+      {"name": "Nkunku", "overall": 84, "price": 65000000},
+      {"name": "Estevao", "overall": 83, "price": 70000000},
+      {"name": "Jackson", "overall": 83, "price": 60000000},
+      {"name": "Colwill", "overall": 83, "price": 55000000},
+      {"name": "Neto", "overall": 82, "price": 60000000},
+      {"name": "Gusto", "overall": 82, "price": 50000000},
+      {"name": "Felix", "overall": 82, "price": 45000000},
+      {"name": "Lavia", "overall": 81, "price": 50000000},
+      {"name": "Cucurella", "overall": 81, "price": 40000000},
+      {"name": "Madueke", "overall": 80, "price": 45000000},
+      {"name": "Sanchez", "overall": 80, "price": 30000000}
+    ]
+  },
+  {
+    "name": "Spurs",
+    "balance": 80000000,
+    "squad": [
+      {"name": "Son", "overall": 87, "price": 70000000},
+      {"name": "Romero", "overall": 86, "price": 65000000},
+      {"name": "Vicario", "overall": 86, "price": 60000000},
+      {"name": "Maddison", "overall": 84, "price": 55000000},
+      {"name": "Van de Ven", "overall": 84, "price": 60000000},
+      {"name": "Porro", "overall": 84, "price": 55000000},
+      {"name": "Solanke", "overall": 83, "price": 50000000},
+      {"name": "Kulusevski", "overall": 83, "price": 55000000},
+      {"name": "Udogie", "overall": 83, "price": 55000000},
+      {"name": "Johnson", "overall": 82, "price": 50000000},
+      {"name": "Sarr", "overall": 81, "price": 45000000},
+      {"name": "Bissouma", "overall": 81, "price": 40000000},
+      {"name": "Bentancur", "overall": 81, "price": 40000000},
+      {"name": "Dragusin", "overall": 80, "price": 35000000},
+      {"name": "Bergvall", "overall": 77, "price": 25000000}
+    ]
+  },
+  {
+    "name": "Everton",
+    "balance": 60000000,
+    "squad": [
+      {"name": "Grealish", "overall": 85, "price": 50000000},
+      {"name": "Pickford", "overall": 84, "price": 45000000},
+      {"name": "Branthwaite", "overall": 83, "price": 65000000},
+      {"name": "Tarkowski", "overall": 82, "price": 30000000},
+      {"name": "McNeil", "overall": 81, "price": 35000000},
+      {"name": "Beto", "overall": 81, "price": 20000000},
+      {"name": "Calvert-Lewin", "overall": 80, "price": 25000000},
+      {"name": "Garner", "overall": 80, "price": 30000000},
+      {"name": "Doucoure", "overall": 79, "price": 20000000},
+      {"name": "Mykolenko", "overall": 79, "price": 25000000},
+      {"name": "Harrison", "overall": 79, "price": 25000000},
+      {"name": "Ndiaye", "overall": 78, "price": 20000000},
+      {"name": "Patterson", "overall": 77, "price": 18000000},
+      {"name": "Gueye", "overall": 77, "price": 5000000},
+      {"name": "Iroegbunam", "overall": 75, "price": 15000000}
+    ]
+  },
+  {
+    "name": "Aston Villa",
+    "balance": 75000000,
+    "squad": [
+      {"name": "Martinez", "overall": 86, "price": 55000000},
+      {"name": "Watkins", "overall": 85, "price": 65000000},
+      {"name": "Torres", "overall": 84, "price": 55000000},
+      {"name": "McGinn", "overall": 83, "price": 45000000},
+      {"name": "Bailey", "overall": 83, "price": 50000000},
+      {"name": "Tielemans", "overall": 82, "price": 40000000},
+      {"name": "Konsa", "overall": 82, "price": 45000000},
+      {"name": "Ramsey", "overall": 81, "price": 45000000},
+      {"name": "Onana", "overall": 81, "price": 55000000},
+      {"name": "Rogers", "overall": 80, "price": 40000000},
+      {"name": "Cash", "overall": 80, "price": 30000000},
+      {"name": "Maatsen", "overall": 80, "price": 40000000},
+      {"name": "Duran", "overall": 79, "price": 35000000},
+      {"name": "Kamara", "overall": 79, "price": 30000000},
+      {"name": "Digne", "overall": 78, "price": 15000000}
+    ]
+  },
+  {
+    "name": "Newcastle",
+    "balance": 120000000,
+    "squad": [
+      {"name": "Guimaraes", "overall": 86, "price": 75000000},
+      {"name": "Isak", "overall": 86, "price": 80000000},
+      {"name": "Gordon", "overall": 84, "price": 65000000},
+      {"name": "Pope", "overall": 84, "price": 40000000},
+      {"name": "Botman", "overall": 84, "price": 55000000},
+      {"name": "Tonali", "overall": 83, "price": 55000000},
+      {"name": "Joelinton", "overall": 83, "price": 50000000},
+      {"name": "Schar", "overall": 82, "price": 25000000},
+      {"name": "Barnes", "overall": 82, "price": 45000000},
+      {"name": "Trippier", "overall": 82, "price": 20000000},
+      {"name": "Livramento", "overall": 81, "price": 40000000},
+      {"name": "Hall", "overall": 79, "price": 35000000},
+      {"name": "Burn", "overall": 79, "price": 15000000},
+      {"name": "Willock", "overall": 79, "price": 25000000},
+      {"name": "Longstaff", "overall": 78, "price": 20000000}
+    ]
+  },
+  {
+    "name": "West Ham",
+    "balance": 65000000,
+    "squad": [
+      {"name": "Bowen", "overall": 84, "price": 60000000},
+      {"name": "Kudus", "overall": 83, "price": 65000000},
+      {"name": "Paqueta", "overall": 83, "price": 60000000},
+      {"name": "Alvarez", "overall": 82, "price": 45000000},
+      {"name": "Todibo", "overall": 81, "price": 40000000},
+      {"name": "Areola", "overall": 81, "price": 25000000},
+      {"name": "Kilman", "overall": 80, "price": 40000000},
+      {"name": "Wan-Bissaka", "overall": 80, "price": 30000000},
+      {"name": "Emerson", "overall": 79, "price": 20000000},
+      {"name": "Soucek", "overall": 79, "price": 25000000},
+      {"name": "Summerville", "overall": 79, "price": 35000000},
+      {"name": "Fullkrug", "overall": 79, "price": 25000000},
+      {"name": "Rodriguez", "overall": 78, "price": 20000000},
+      {"name": "Antonio", "overall": 77, "price": 10000000},
+      {"name": "Coufal", "overall": 77, "price": 10000000}
+    ]
+  },
+  {
+    "name": "Brighton",
+    "balance": 70000000,
+    "squad": [
+      {"name": "Pedro", "overall": 82, "price": 50000000},
+      {"name": "Mitoma", "overall": 82, "price": 55000000},
+      {"name": "Dunk", "overall": 81, "price": 25000000},
+      {"name": "Estupinan", "overall": 81, "price": 40000000},
+      {"name": "Van Hecke", "overall": 80, "price": 35000000},
+      {"name": "Rutter", "overall": 79, "price": 45000000},
+      {"name": "Minteh", "overall": 79, "price": 40000000},
+      {"name": "Baleba", "overall": 79, "price": 35000000},
+      {"name": "Verbruggen", "overall": 78, "price": 30000000},
+      {"name": "Wieffer", "overall": 78, "price": 30000000},
+      {"name": "Hinshelwood", "overall": 77, "price": 25000000},
+      {"name": "Welbeck", "overall": 77, "price": 10000000},
+      {"name": "Veltman", "overall": 77, "price": 12000000},
+      {"name": "Adingra", "overall": 77, "price": 30000000},
+      {"name": "Milner", "overall": 75, "price": 200000}
+    ]
+  },
+  {
+    "name": "My Custom FC",
+    "balance": 50000000,
+    "squad": [
+      {"name": "Captain Joe", "overall": 75, "price": 5000000},
+      {"name": "Claudio Batatinha", "overall": 77, "price": 5500000},
+      {"name": "John Doe", "overall": 70, "price": 1200000},
+      {"name": "Fast Eddie", "overall": 72, "price": 2500000},
+      {"name": "Wall Wally", "overall": 74, "price": 4000000},
+      {"name": "Striker Sam", "overall": 76, "price": 6000000},
+      {"name": "Midfield Mike", "overall": 73, "price": 3000000},
+      {"name": "Goalie Gary", "overall": 75, "price": 4500000},
+      {"name": "Defender Dan", "overall": 71, "price": 1500000},
+      {"name": "Rookie Bob", "overall": 68, "price": 1000000}
+    ]
+  }
+]

@@ -59,10 +59,20 @@ public class MatchScreen extends ScreenAdapter {
             }
         });
 
+        TextButton standingsButton = new TextButton("View League Table", skin);
+
+        standingsButton.addListener(new ChangeListener() {
+            @Override
+            public void changed(ChangeEvent event, com.badlogic.gdx.scenes.scene2d.Actor actor) {
+                game.setScreen(new StandingsScreen(game));
+            }
+        });
+
         table.add(titleLabel).padBottom(40).row();
         table.add(teamAvgLabel).padBottom(20).row();
         table.add(resultLabel).padBottom(40).row();
-        table.add(simButton).width(200).height(60).padBottom(20).row();
+        table.add(simButton).width(200).height(60).padBottom(10).row();
+        table.add(standingsButton).width(200).height(50).padBottom(20).row(); // NEW BUTTON HERE
         table.add(backButton).width(200).height(50);
     }
 
